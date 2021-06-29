@@ -10,7 +10,7 @@
 <br />
 **Achievements**
 <br>
-![Arctic Code Vault contributor 2020](https://github.githubassets.com/images/modules/profile/badge--acv-64.png)
+<a href="https://github.com/dewanmukto">![Arctic Code Vault contributor 2020](https://github.githubassets.com/images/modules/profile/badge--acv-64.png)</a>
 <br />
 ## Languages I'm familiar with
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
