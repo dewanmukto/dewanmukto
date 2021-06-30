@@ -21,7 +21,7 @@
 <br />
 ## Cloud hosting platforms I've used
 <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=repl-dot-it&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white" /></a>
 <br />
 ## Integrated Development Environments I've used
