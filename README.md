@@ -46,12 +46,32 @@
 <a href="#"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" /></a>
 <br />
-## My games, software and blogs
+## My games, showcases, and software
 <a href="https://arubiscube.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
+<a href="https://codepen.io/bip2021"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br />
+## My blogs and social profiles
 <a href="https://muktology.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://www.mukto.live/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
+<a href="https://www.quora.com/profile/Dewan-Mukto"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" /></a>
 <a href="https://muktology.data.blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
 <a href="https://patreon.com/thepoetking"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dewanmukto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/dewanmukto"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://twitter.com/DewanMukto"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://facebook.com/dmimukto"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UCLF4UJFhHy7nFlJw8fBM1zA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<br />
+## My music
+<a href="https://open.spotify.com/artist/7iaA7BQ1nDq1mkqFzpz7JQ"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
+<a href="https://www.deezer.com/us/artist/89976122/"><img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" /></a>
+<a href="https://music.youtube.com/channel/UCNwXL4n1lCO-FIAR0dhT5tQ"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" /></a>
+<a href="https://soundcloud.com/muktodboss-studio"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
+<br />
+## My streams
+<a href="https://twitch.tv/dukemantwo"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UC0LulbntKbmZkVXFJ_dS1cA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <br /><br /><br />
 ###### Badges designed by [Alexandre Sanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
