@@ -10,7 +10,7 @@
 <br />
 **Achievements**
 <br />
-![github stats](https://github-readme-stats.vercel.app/api?username=dmimukto&show_icons=true&theme=chartreuse-dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=dmimukto&show_icons=true&theme=purple-dark)
 <br />
 <br>
 <a href="https://github.com/dewanmukto">![Arctic Code Vault contributor 2020](https://github.githubassets.com/images/modules/profile/badge--acv-64.png)</a>
