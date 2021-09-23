@@ -11,7 +11,9 @@
 **Achievements**
 <br />
 ![https://github-readme-stats.vercel.app/](https://github-readme-stats.vercel.app/api?username=dmimukto&show_icons=true&theme=midnight-purple)<br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmimukto&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmimukto&theme=monokai)<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmimukto&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dmimukto&theme=monokai)
 <br />
 <br>
 <a href="https://github.com/dewanmukto">![Arctic Code Vault contributor 2020](https://github.githubassets.com/images/modules/profile/badge--acv-64.png)</a>
