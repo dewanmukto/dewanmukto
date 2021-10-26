@@ -10,7 +10,7 @@
 <br />
 **Achievements**
 <br />
-![https://github-readme-stats.vercel.app/](https://github-readme-stats.vercel.app/api?username=dmimukto&show_icons=true&theme=midnight-purple)<br>
+![](https://github-readme-stats.vercel.app/api?username=dmimukto&show_icons=true&theme=midnight-purple)<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmimukto&theme=monokai)<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmimukto&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dmimukto&theme=monokai)
@@ -81,3 +81,4 @@
 ###### Badges designed by [Alexandre Sanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 <!-- WOW, YOU'RE ACTUALLY READING THE SOURCE! NO PROBLEM, WE ALL LEARN FROM EXAMPLES ANYWAY. 😄 -->
+![](https://komarev.com/ghpvc/?username=dmimukto)
