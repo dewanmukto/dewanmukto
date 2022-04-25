@@ -14,6 +14,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmimukto&theme=monokai)<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmimukto&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dmimukto&theme=monokai)
+![](https://github-profile-trophy.vercel.app/?username=dmimukto)
 <br />
 <br>
 <a href="https://github.com/dewanmukto">![Arctic Code Vault contributor 2020](https://github.githubassets.com/images/modules/profile/badge--acv-64.png)</a>
@@ -21,14 +22,15 @@
 ## Languages I'm familiar with
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 <a href="#"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
 <br />
 ## Languages I'm currently learning
 <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
 <br />
 ## Cloud hosting platforms I've used
