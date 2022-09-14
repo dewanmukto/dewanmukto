@@ -5,7 +5,7 @@
 𝐄𝐬𝐭-𝐜𝐞 𝐪𝐮𝐞 𝐯𝐨𝐮𝐬 𝐩𝐚𝐫𝐥𝐞𝐳 𝐚𝐧𝐠𝐥𝐚𝐢𝐬? 🔠
 <br />
 <br />
-**My previous Github profiles remain abandoned [here](https://github.com/dewanmukto) and [here](https://github.com/dewanmukto.bd)**
+**My previous Github profiles remain abandoned [here](https://github.com/dewanmukto) and [here](https://github.com/dewanmukto_bd)**
 <br />
 <br />
 **🏆 Achievements**
