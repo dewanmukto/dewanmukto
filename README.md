@@ -1,27 +1,24 @@
 ```
-www.mukto.net/github
+
 ```
 
-𝐁𝐨𝐧𝐣𝐨𝐮𝐫! 👨‍💻 🙋‍♂️
+𝐵𝑜𝓃𝒿𝑜𝓊𝓇! 👩‍💻🙋‍♀️
 <br>
-𝐉𝐞 𝐬𝐮𝐢𝐬 𝐃𝐞𝐰𝐚𝐧 𝐌𝐮𝐤𝐭𝐨. 𝐌𝐚𝐢𝐬 𝐣𝐞 𝐧𝐞 𝐩𝐞𝐮𝐱 𝐩𝐚𝐬 𝐩𝐚𝐫𝐥𝐞𝐫 𝐟𝐫𝐚𝐧ç𝐚𝐢𝐬. 🤦‍♂️
+𝒥𝑒 𝓈𝓊𝒾𝓈 𝒫𝑒𝒶𝓇𝓁 𝒟𝒶𝓌𝓃𝑒. 𝑀𝒶𝒾𝓈 𝒿𝑒 𝓃𝑒 𝓅𝑒𝓊𝓍 𝓅𝒶𝓈 𝓅𝒶𝓇𝓁𝑒𝓇 𝒻𝓇𝒶𝓃ç𝒶𝒾𝓈. 🤦‍♀️
 <br>
-𝐄𝐬𝐭-𝐜𝐞 𝐪𝐮𝐞 𝐯𝐨𝐮𝐬 𝐩𝐚𝐫𝐥𝐞𝐳 𝐚𝐧𝐠𝐥𝐚𝐢𝐬? 🔠
+𝐸𝓈𝓉-𝒸𝑒 𝓆𝓊𝑒 𝓋𝑜𝓊𝓈 𝓅𝒶𝓇𝓁𝑒𝓏 𝒶𝓃𝑔𝓁𝒶𝒾𝓈 ? 🔠
 <br />
 <br />
-**My previous Github profiles remain abandoned [here](https://github.com/dewanmukto) and [here](https://github.com/dewanmukto-bd)**
+**My previous Github profiles remain abandoned [here](https://github.com/dewanmukto) and [here](https://github.com/dmimukto)**
 <br />
 <br />
 **🏆 Achievements**
 <br />
-![](https://github-readme-stats.vercel.app/api?username=dmimukto&show_icons=true&theme=midnight-purple)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dmimukto&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmimukto&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmimukto&theme=monokai)
-![](https://github-profile-trophy.vercel.app/?username=dmimukto)
-<br />
-<br>
-<a href="https://github.com/dewanmukto">![Arctic Code Vault contributor 2020](https://github.githubassets.com/images/modules/profile/badge--acv-64.png)</a>
+![](https://github-readme-stats.vercel.app/api?username=pearldawne&show_icons=true&theme=midnight-purple)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pearldawne&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pearldawne&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pearldawne&theme=monokai)
+![](https://github-profile-trophy.vercel.app/?username=pearldawne)
 <br />
 
 ## ⚒️ Toolchain
@@ -55,30 +52,12 @@ www.mukto.net/github
 <a href="#"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" /></a>
 <br />
 
-## 🎮 My Games, Apps, Software
-<a href="https://dewanmukto.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
-<a href="https://codepen.io/dewanmukto"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a><br />
 
-## 💬 My Blogs, Social
-<a href="https://dewanmukto.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://www.quora.com/profile/Dewan-Mukto"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/dewanmukto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/dewanmukto"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://twitter.com/DewanMukto"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.youtube.com/channel/UCLF4UJFhHy7nFlJw8fBM1zA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<br />
-
-## 🎵 My Music
-<a href="https://open.spotify.com/artist/5dASeJomHYQXfo9ij70zjQ"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
-<a href="https://soundcloud.com/dewanmukto"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
-<br />
-
-## 🎥 My Streams
-<a href="https://twitch.tv/dukemantwo"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
-<a href="https://twitch.tv/dewanmukto"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
-<br /><br /><br />
 
 ###### Badges designed by [Alexandre Sanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 <!-- WOW, YOU'RE ACTUALLY READING THE SOURCE! NO PROBLEM, WE ALL LEARN FROM EXAMPLES ANYWAY. 😄 -->
-![](https://komarev.com/ghpvc/?username=dmimukto)
+![](https://komarev.com/ghpvc/?username=pearldawne)
+```
+
+```
