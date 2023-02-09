@@ -14,10 +14,10 @@
 <br />
 **🏆 Achievements**
 <br />
-![](https://github-readme-stats.vercel.app/api?username=pearldawne&show_icons=true&theme=midnight-purple)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pearldawne&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pearldawne&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pearldawne&theme=monokai)
+![](https://github-readme-stats.vercel.app/api?username=pearldawne&show_icons=true&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pearldawne&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pearldawne&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pearldawne&theme=github)
 ![](https://github-profile-trophy.vercel.app/?username=pearldawne)
 <br />
 
