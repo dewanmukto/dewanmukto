@@ -2,22 +2,14 @@
 
 ```
 
-𝐵𝑜𝓃𝒿𝑜𝓊𝓇! 👩‍💻🙋‍♀️
-<br>
-𝒥𝑒 𝓈𝓊𝒾𝓈 𝒫𝑒𝒶𝓇𝓁 𝒟𝒶𝓌𝓃𝑒. 𝑀𝒶𝒾𝓈 𝒿𝑒 𝓃𝑒 𝓅𝑒𝓊𝓍 𝓅𝒶𝓈 𝓅𝒶𝓇𝓁𝑒𝓇 𝒻𝓇𝒶𝓃ç𝒶𝒾𝓈. 🤦‍♀️
-<br>
-𝐸𝓈𝓉-𝒸𝑒 𝓆𝓊𝑒 𝓋𝑜𝓊𝓈 𝓅𝒶𝓇𝓁𝑒𝓏 𝒶𝓃𝑔𝓁𝒶𝒾𝓈 ? 🔠
-<br />
-<br />
-**My previous Github profiles remain abandoned [here](https://github.com/dewanmukto) and [here](https://github.com/dmimukto)**
 <br />
 <br />
 **🏆 Achievements**
 <br />
-![](https://github-readme-stats.vercel.app/api?username=pearldawne&show_icons=true&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pearldawne&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pearldawne&theme=github)
-![](https://github-profile-trophy.vercel.app/?username=pearldawne)
+![](https://github-readme-stats.vercel.app/api?username=mux-to&show_icons=true&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mux-to&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mux-to&theme=github)
+![](https://github-profile-trophy.vercel.app/?username=mux-to)
 <br />
 
 ## ⚒️ Toolchain
@@ -56,7 +48,7 @@
 ###### Badges designed by [Alexandre Sanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 <!-- WOW, YOU'RE ACTUALLY READING THE SOURCE! NO PROBLEM, WE ALL LEARN FROM EXAMPLES ANYWAY. 😄 -->
-![](https://komarev.com/ghpvc/?username=pearldawne)
+![](https://komarev.com/ghpvc/?username=mux-to)
 ```
 
 ```
