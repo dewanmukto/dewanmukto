@@ -1,11 +1,9 @@
 ```
 
 ```
+## 🏆 Achievements
+<br />
 
-<br />
-<br />
-**🏆 Achievements**
-<br />
 ![](https://github-readme-stats.vercel.app/api?username=mux-to&show_icons=true&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mux-to&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mux-to&theme=github)
