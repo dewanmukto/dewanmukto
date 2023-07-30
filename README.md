@@ -1,7 +1,7 @@
 # Dewan Mukto
 
 ```
-Please refrain from misrepresenting me on other social platforms.
+https://discord.gg/2rBcjwjRdC
 ```
 ## 🏆 Achievements
 <br />
