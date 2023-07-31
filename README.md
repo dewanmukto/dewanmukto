@@ -50,5 +50,4 @@ https://discord.gg/2rBcjwjRdC
 <!-- WOW, YOU'RE ACTUALLY READING THE SOURCE! NO PROBLEM, WE ALL LEARN FROM EXAMPLES ANYWAY. 😄 -->
 ![](https://komarev.com/ghpvc/?username=D1STIL)
 ```
-https://www.roblox.com/users/2249388741/profile
 ```
