@@ -6,10 +6,10 @@ https://discord.gg/2rBcjwjRdC
 ## 🏆 Achievements
 <br />
 
-![](https://github-readme-stats.vercel.app/api?username=D1STIL&show_icons=true&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=D1STIL&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D1STIL&theme=github)
-![](https://github-profile-trophy.vercel.app/?username=D1STIL)
+![](https://github-readme-stats.vercel.app/api?username=diztil&show_icons=true&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diztil&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diztil&theme=github)
+![](https://github-profile-trophy.vercel.app/?username=diztil)
 <br />
 
 ## ⚒️ Toolchain
@@ -48,6 +48,6 @@ https://discord.gg/2rBcjwjRdC
 ###### Badges designed by [Alexandre Sanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 <!-- WOW, YOU'RE ACTUALLY READING THE SOURCE! NO PROBLEM, WE ALL LEARN FROM EXAMPLES ANYWAY. 😄 -->
-![](https://komarev.com/ghpvc/?username=D1STIL)
+![](https://komarev.com/ghpvc/?username=diztil)
 ```
 ```
