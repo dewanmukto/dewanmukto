@@ -1,7 +1,6 @@
 # Distilaptop 💻
 
 ```
-https://discord.gg/2rBcjwjRdC
 ```
 ## 🏆 Achievements
 <br />
