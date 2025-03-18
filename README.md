@@ -1,10 +1,11 @@
-# Distilaptop 💻
+# Greetings from the Distilaptop 💻
+
+<a href="https://www.linkedin.com/in/dewanmukto/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D5616AQGWqZ-3CZRZUg/profile-displaybackgroundimage-shrink_350_1400/B56ZVBOSXNHsAY-/0/1740556020270?e=1747872000&v=beta&t=y2pZZZjnPKQjnjw3BnVoSiXEAFBd3dO5OwWAcL_JA3o" /></a>
 
 ```
 https://www.linkedin.com/in/dewanmukto/
 ```
 
-<a href="https://www.linkedin.com/in/dewanmukto/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D5616AQGWqZ-3CZRZUg/profile-displaybackgroundimage-shrink_350_1400/B56ZVBOSXNHsAY-/0/1740556020270?e=1747872000&v=beta&t=y2pZZZjnPKQjnjw3BnVoSiXEAFBd3dO5OwWAcL_JA3o" /></a>
 ## 🏆 Achievements
 <br />
 
