@@ -1,7 +1,10 @@
 # Distilaptop 💻
 
 ```
+https://www.linkedin.com/in/dewanmukto/
 ```
+
+<a href="https://www.linkedin.com/in/dewanmukto/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D5616AQGWqZ-3CZRZUg/profile-displaybackgroundimage-shrink_350_1400/B56ZVBOSXNHsAY-/0/1740556020270?e=1747872000&v=beta&t=y2pZZZjnPKQjnjw3BnVoSiXEAFBd3dO5OwWAcL_JA3o" /></a>
 ## 🏆 Achievements
 <br />
 
@@ -17,7 +20,6 @@
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
 ![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,5 +51,10 @@
 
 <!-- WOW, YOU'RE ACTUALLY READING THE SOURCE! 😄 -->
 ![](https://komarev.com/ghpvc/?username=diztil)
+
+<a href="https://behance.net/dmkto" target="_blank"><img src="https://pbs.twimg.com/profile_banners/1701192850531340288/1711379697/1500x500" /></a>
+
 ```
+https://behance.net/dmkto
 ```
+
