@@ -1,17 +1,8 @@
-<a href="https://www.linkedin.com/in/dewanmukto/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D5616AQGWqZ-3CZRZUg/profile-displaybackgroundimage-shrink_350_1400/B56ZVBOSXNHsAY-/0/1740556020270?e=1747872000&v=beta&t=y2pZZZjnPKQjnjw3BnVoSiXEAFBd3dO5OwWAcL_JA3o" /></a>
+<a href="https://behance.net/dmkto" target="_blank"><img src="https://pbs.twimg.com/profile_banners/1701192850531340288/1711379697/1500x500" /></a>
 
 ```
 https://www.linkedin.com/in/dewanmukto/
 ```
-
-## 🏆 Achievements
-<br />
-
-![](https://github-readme-stats.vercel.app/api?username=dewanmukto&show_icons=true&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dewanmukto&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dewanmukto&theme=github)
-![](https://github-profile-trophy.vercel.app/?username=dewanmukto)
-<br />
 
 ## ⚒️ Languages & Frameworks
 ![](https://mux8.com/img/github-badges-square/Python.png)
@@ -67,8 +58,6 @@ https://www.linkedin.com/in/dewanmukto/
 
 <!-- WOW, YOU'RE ACTUALLY READING THE SOURCE! 😄 -->
 ![](https://komarev.com/ghpvc/?username=diztil)
-
-<a href="https://behance.net/dmkto" target="_blank"><img src="https://pbs.twimg.com/profile_banners/1701192850531340288/1711379697/1500x500" /></a>
 
 ```
 https://behance.net/dmkto
